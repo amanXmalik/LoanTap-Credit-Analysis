@@ -1,6 +1,6 @@
 ## LoanTap Credit Analysis
 The Loantap Credit Analysis Project is a data analysis project aimed at assessing credit risk for loan applicants. By analyzing various features, we can make informed decisions about whether to approve or reject loan applications.
-!Local Image
+[-](https://github.com/amanXmalik/LoanTap-Credit-Analysis/blob/49c4c6ebaf7afc652cc74347430ccfe75c9ea40b/images_loantap.jpeg)
 
 
 ### Features
